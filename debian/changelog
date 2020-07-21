@@ -1,5 +1,5 @@
-deepin-sound-theme (15.10.2-1) unstable; urgency=low
+deepin-sound-theme (15.10.6-1) groovy; urgency=medium
 
-  * Auto Version update.
+  * Rebuild for UbuntuDDE Groovy.
 
- -- shuttle <shuttle@deepin.com>  Tue, 31 Oct 2017 03:10:37 +0000
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 21 Jul 2020 16:36:16 +0545
